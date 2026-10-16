@@ -1,6 +1,7 @@
 # Marketing & Growth Analytics: Paid Ads vs Channel Gratis
 
 Analisis efektivitas Paid Ads dibandingkan channel gratis pada 800 pengguna (Januari–Maret 2025) dengan Python dan Tableau. Fokusnya adalah menilai apakah biaya iklan sepadan dengan hasilnya, lewat metrik ROAS, CAC, *break-even margin*, dan pendapatan bersih per pengguna.
+
 ---
 
 ## Daftar Isi
